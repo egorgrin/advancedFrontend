@@ -8,6 +8,7 @@
     "jsx": "react",
     "allowJs": true,
     "moduleResolution": "node",
+    "baseUrl": ".",
     /* When enabled, TypeScript allows you to use default-named objects from CommonJS modules just like they were exported using the standard ES6 syntax. */
     "esModuleInterop": true,
     /* "allowSyntheticDefaultImports" flag in TypeScript is used to allow the import of modules that don't explicitly export a "default".
