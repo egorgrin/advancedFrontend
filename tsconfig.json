@@ -13,7 +13,8 @@
     "esModuleInterop": true,
     /* "allowSyntheticDefaultImports" flag in TypeScript is used to allow the import of modules that don't explicitly export a "default".
     It "synthetically" creates a "default" export for modules that don't have one. */
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
   },
   "ts-node": {
     "compilerOptions": {
