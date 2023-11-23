@@ -1,0 +1,11 @@
+:root {
+  --f-family-main: Consolas, "Times New Roman", serif;
+
+  --fsz-m: 16px;
+  --line-height-m: 24px;
+  --font-m: var(--fsz-m) / var(--line-height-m) var(--f-family-main);
+
+  --fsz-l: 24px;
+  --line-height-l: 32px;
+  --font-l: var(--fsz-l) / var(--line-height-l) var(--f-family-main);
+}
